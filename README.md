@@ -115,9 +115,10 @@ This project is licensed under the MIT License.
 ---
 
 ## 👨‍💻 Author
-**Your Name**  
+**Subhakanta Rath**  
 MSc AI & ML | Aspiring Data Engineer & ML Engineer  
 IIIT Lucknow
 
 📧 Contact: subhakantarath01@gmail.com 
 🔗 LinkedIn: [Your Profile](linkedin.com/in/subhakanta-rath-0b45b0326)  
+
